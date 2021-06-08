@@ -1,7 +1,7 @@
-classmates= {'deepak': ' nice bnda hai', 'baba':' akdu hai , pr shi hai', 'priyanshi':' katyi hi cool ladki hai'}
+classmates= {'saadhu': ' nice bnda hai', 'baba':' gay', 'crom':' katyi hi cool ladki hai'}
 
 print(classmates)
-print(classmates['baba'])
+print(classmates['crom'])
 
 for k,v in classmates.items():
     print(k,v)
